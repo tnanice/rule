@@ -9,8 +9,23 @@ DOMAIN-SUFFIX,hao123.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
-# IP段匹配
-IP-CIDR,219.146.1.66/32,no-resolve
+# 自建VPS-IP
+IP-CIDR,43.161.254.239/32,no-resolve
+IP-CIDR,8.218.105.95/32,no-resolve
+IP-CIDR,47.238.156.247/32,no-resolve
+IP-CIDR,8.218.27.105/32,no-resolve
+IP-CIDR,8.209.200.166/32,no-resolve
+IP-CIDR,47.79.35.158/32,no-resolve
+IP-CIDR,47.79.121.143/32,no-resolve
+IP-CIDR,45.8.113.43/32,no-resolve
+IP-CIDR,23.106.159.124/32,no-resolve
+IP-CIDR,45.78.25.194/32,no-resolve
+IP-CIDR,154.17.237.44/32,no-resolve
+IP-CIDR,43.161.254.239/32,no-resolve
+IP-CIDR,103.20.222.136/32,no-resolve
+IP-CIDR,163.53.246.158/32,no-resolve
+
+
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
