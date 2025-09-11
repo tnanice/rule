@@ -46,7 +46,7 @@ IP-CIDR,144.34.236.133/32,no-resolve
 IP-CIDR,46.232.107.133/32,no-resolve
 IP-CIDR,38.147.188.227/32,no-resolve #hosthk
 IP-CIDR,206.237.127.243/32,no-resolve #hostjp
-
+IP-CIDR,154.36.156.195/32,no-resolve #VMISS
 
 
 
