@@ -28,5 +28,5 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai.com
 DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
-DOMAIN-SUFFIX,apps.mzstatic.com
+DOMAIN-SUFFIX,mzstatic.com
 # 域名
