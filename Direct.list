@@ -42,11 +42,11 @@ IP-CIDR,103.20.222.136/32,no-resolve
 IP-CIDR,163.53.246.158/32,no-resolve
 IP-CIDR,103.180.29.64/32,no-resolve
 IP-CIDR,8.222.223.41/32,no-resolve
-IP-CIDR,144.34.236.133/32,no-resolve
-IP-CIDR,46.232.107.133/32,no-resolve
-IP-CIDR,38.147.188.227/32,no-resolve #hosthk
-IP-CIDR,206.237.127.243/32,no-resolve #hostjp
+IP-CIDR,144.34.236.133/32,no-resolve #DC1
+IP-CIDR,46.232.107.133/32,no-resolve #ISIF
 IP-CIDR,154.36.156.195/32,no-resolve #VMISS
+IP-CIDR,193.177.220.184/32,no-resolve #GCAU
+IP-CIDR,173.242.115.126/32,no-resolve #DC6
 
 
 
