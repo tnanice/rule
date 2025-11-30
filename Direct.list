@@ -47,7 +47,7 @@ IP-CIDR,46.232.107.133/32,no-resolve #ISIF
 IP-CIDR,154.36.156.195/32,no-resolve #VMISS
 IP-CIDR,193.177.220.184/32,no-resolve #GCAU
 IP-CIDR,173.242.115.126/32,no-resolve #DC6
-
+IP-CIDR,54.254.219.211/32,no-resolve #aws
 
 
 # 国内DNS
