@@ -22,6 +22,16 @@ DOMAIN-SUFFIX,hdhome.org
 DOMAIN-SUFFIX,hdsky.me
 DOMAIN-SUFFIX,ptchdbits.co
 
+# 自建域名
+  
+DOMAIN-KEYWORD,m-team
+DOMAIN-KEYWORD,plex
+DOMAIN-SUFFIX,nanflix.net
+DOMAIN-SUFFIX,tnxstar.com
+DOMAIN-SUFFIX,918999.xyz
+DOMAIN-SUFFIX,uhhdc.com
+
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
