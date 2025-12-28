@@ -1,0 +1,5 @@
+# wg
+IP-CIDR,192.168.10.0/24,no-resolve
+IP-CIDR,10.126.126.0/24,no-resolve
+IP-CIDR,10.128.128.0/24,no-resolve
+IP-CIDR,10.11.0.0/16,no-resolve
