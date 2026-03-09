@@ -5,32 +5,15 @@
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
-DOMAIN-SUFFIX,totheglory.im
-DOMAIN-SUFFIX,btschool.club
-# DOMAIN-SUFFIX,ourbits.club
-DOMAIN-SUFFIX,audiences.me
-DOMAIN-SUFFIX,pterclub.com
-# DOMAIN-SUFFIX,springsunday.net
-DOMAIN-SUFFIX,hhanclub.top
-DOMAIN-SUFFIX,dmhy.org
-DOMAIN-SUFFIX,leaves.red
-DOMAIN-SUFFIX,keepfrds.com
-DOMAIN-SUFFIX,zhuque.in
-DOMAIN-SUFFIX,tracker.cinefiles.info
-DOMAIN-SUFFIX,hdhome.org
-# DOMAIN-SUFFIX,hddolby.com
-DOMAIN-SUFFIX,hdsky.me
-DOMAIN-SUFFIX,ptchdbits.co
 
-# 自建域名
-  
-DOMAIN-KEYWORD,m-team
+
+# 自建域名  
+
 DOMAIN-KEYWORD,plex
 DOMAIN-SUFFIX,nanflix.net
 DOMAIN-SUFFIX,tnxstar.com
 DOMAIN-SUFFIX,918999.xyz
 DOMAIN-SUFFIX,uhhdc.com
-
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
@@ -53,11 +36,13 @@ IP-CIDR,163.53.246.158/32,no-resolve
 IP-CIDR,103.180.29.64/32,no-resolve
 IP-CIDR,8.222.223.41/32,no-resolve
 IP-CIDR,144.34.236.133/32,no-resolve #DC1
-IP-CIDR,46.232.107.133/32,no-resolve #ISIF
 IP-CIDR,154.36.156.195/32,no-resolve #VMISS
 IP-CIDR,193.177.220.184/32,no-resolve #GCAU
 IP-CIDR,173.242.115.126/32,no-resolve #DC6
 IP-CIDR,54.254.219.211/32,no-resolve #aws
+IP-CIDR,23.146.156.194/32,no-resolve #wawo
+IP-CIDR,47.83.135.228/32,no-resolve #ali-hk
+
 
 
 # 国内DNS
