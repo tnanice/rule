@@ -1,0 +1,12 @@
+[General]
+name = 农场注入-账号1
+desc = 开启后，进入小程序自动注入并启动账号1
+author = Gemini
+icon = https://raw.githubusercontent.com/Orz-3/mini/master/Color/JD.png
+
+[Rewrite]
+# 将 Code 转发给 injector 的 /catch/1 路径
+^https:\/\/gate-obt\.nqf\.qq\.com\/prod\/ws.*code=([^&]+) 302 http://192.168.10.250:9988/catch/1?code=$1
+
+[MITM]
+hostname = gate-obt.nqf.qq.com
