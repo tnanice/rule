@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,nanflix.net
 DOMAIN-SUFFIX,tnxstar.com
 DOMAIN-SUFFIX,918999.xyz
 DOMAIN-SUFFIX,uhhdc.com
+DOMAIN-SUFFIX,tnx.one
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
@@ -42,6 +43,8 @@ IP-CIDR,173.242.115.126/32,no-resolve #DC6
 IP-CIDR,54.254.219.211/32,no-resolve #aws
 IP-CIDR,23.146.156.194/32,no-resolve #wawo
 IP-CIDR,47.83.135.228/32,no-resolve #ali-hk
+IP-CIDR,38.207.187.141/32,no-resolve #vm-us
+IP-CIDR,140.235.11.84/32,no-resolve #isif-sg
 
 
 
